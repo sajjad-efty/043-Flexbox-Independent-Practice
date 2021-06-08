@@ -1,0 +1,38 @@
+.menu1 {
+    display: flex;
+    justify-content: flex-end;
+    background-color: grey;
+    border: 15px solid green;
+    font-family: 'Anton', sans-serif;
+}
+
+.item1 {
+    margin: 5px;
+    padding: 10px;
+    border: 10px solid red;
+    background-color:white;
+}
+.menu2 {
+     display: flex;
+    justify-content: flex-end;
+    background-color: gold;
+    border: 20px solid brown;
+}
+.item2{
+    margin: 10px;
+    padding: 3px;
+    border: 10px solid purple;
+    background-color:white;
+}
+.menu3{
+    display: flex;
+    justify-content: flex-end;
+    background-color: pink;
+    border: 20px solid navy;
+}
+.item3{
+    margin: 10px;
+    padding: 3px;
+    border: 10px solid green;
+    background-color:wheat;
+}
